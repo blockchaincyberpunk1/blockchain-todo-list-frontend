@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/blockchain-todo-list-frontend/static/css/main.53f75cde.css",
+    "main.js": "/blockchain-todo-list-frontend/static/js/main.d29380f1.js",
+    "index.html": "/blockchain-todo-list-frontend/index.html",
+    "main.53f75cde.css.map": "/blockchain-todo-list-frontend/static/css/main.53f75cde.css.map",
+    "main.d29380f1.js.map": "/blockchain-todo-list-frontend/static/js/main.d29380f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53f75cde.css",
+    "static/js/main.d29380f1.js"
+  ]
+}
